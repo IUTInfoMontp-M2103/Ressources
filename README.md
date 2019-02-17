@@ -5,4 +5,5 @@ Git :
 * [Git Cheat-sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 Support cours (versions condensées, volontairement incomplètes) :
-* [Introduction : Java et objet](http://pageperso.lif.univ-mrs.fr/~petru.valicov/Cours/M2103/BPOO_Generalites_x4.pdf)
+* [Introduction : Java et objets](http://pageperso.lif.univ-mrs.fr/~petru.valicov/Cours/M2103/BPOO_Generalites_x4.pdf)
+* [Heritage et Polymorphisme](http://pageperso.lif.univ-mrs.fr/~petru.valicov/Cours/M2103/BPOO_Heritage_Polymorphisme_x4.pdf)
