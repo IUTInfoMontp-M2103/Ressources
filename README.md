@@ -1,6 +1,8 @@
 Git :
 
 * [Démarrer avec Git](https://pageperso.lis-lab.fr/~petru.valicov/Cours/archives/Aix/M2104/Demarrer%20avec%20Git)
+* [mini tuto](https://gitlabinfo.iutmontp.univ-montp2.fr/valicov/tutoGit1ereAnnee) pour GitLab à l'IUT Montpellier-Sète
+* [Git-it](https://github.com/jlord/git-it-electron) - application Desktop pour apprendre Git avec GitHub
 * [Tutoriel officiel Git](https://git-scm.com/docs/gittutorial)
 * [Git Cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
