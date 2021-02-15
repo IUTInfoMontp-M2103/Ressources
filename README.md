@@ -9,6 +9,6 @@ Git :
 
 Support cours (versions condensées, volontairement incomplètes) :
 * [Introduction : Java et objets](http://pageperso.lis-lab.fr/~petru.valicov/Cours/M2103/BPOO_Generalites_x4.pdf)
-* Héritage et Polymorphisme -- à paraître au fur et à mesure de l'avancement du cours
+* [Héritage et Polymorphisme](https://pageperso.lis-lab.fr/~petru.valicov/Cours/M2103/BPOO_Heritage_Polymorphisme_x4.pdf)
 * Généricité et Structures de données -- à paraître au fur et à mesure de l'avancement du cours
 * Gestion d'exceptions -- à paraître au fur et à mesure de l'avancement du cours
